@@ -24,11 +24,19 @@ Watch this video to gain a deeper understanding of the major arguments from thos
 #### Prioritizing the Rules
 [![The Rules](http://img.youtube.com/vi/H7Xf1JQxdQo/0.jpg)](http://www.youtube.com/watch?v=H7Xf1JQxdQo)
 
+Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing those following the rules/laws when programming self-driving cars' decisions.
+
 #### Prioritizing the Total Amount of Lives Saved
 [![The Numbers](http://img.youtube.com/vi/CQXF9XKB48Y/0.jpg)](http://www.youtube.com/watch?v=CQXF9XKB48Y)
+
+Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the total amount of lives saved when programming self-driving cars' decisions.
 
 #### Prioritizing those Most "Valued by Society"
 [![The Valued](http://img.youtube.com/vi/QA3Vo5ROBeA/0.jpg)](http://www.youtube.com/watch?v=QA3Vo5ROBeA)
 
+Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing those considered most valued by society when programming self-driving cars' decisions.
+
 #### Prioritizing the Passengers
 [![The Passengers](http://img.youtube.com/vi/swseHALyzmE/0.jpg)](http://www.youtube.com/watch?v=swseHALyzmE)
+
+Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the passengers of the self-driving vehicle when programming the vehicle's decisions.
