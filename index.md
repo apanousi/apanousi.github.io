@@ -13,3 +13,20 @@ After discovering what ethical framework you are, read our summary of the perspe
 ### Self Driving Car Priorities
 #### Prioritizing the Young
 [![The Young](http://img.youtube.com/vi/M0XAHpvV3bA/0.jpg)](http://www.youtube.com/watch?v=M0XAHpvV3bA)
+Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the young when programming self-driving cars' decisions.
+
+#### Prioritizing the Disadvantaged
+[![The Disadvantaged](http://img.youtube.com/vi/y1witXkoLN4/0.jpg)](http://www.youtube.com/watch?v=y1witXkoLN4)
+Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the disadvantaged when programming self-driving cars' decisions.
+
+#### Prioritizing the Rules
+[![The Rules](http://img.youtube.com/vi/H7Xf1JQxdQo/0.jpg)](http://www.youtube.com/watch?v=H7Xf1JQxdQo)
+
+#### Prioritizing the Total Amount of Lives Saved
+[![The Numbers](http://img.youtube.com/vi/CQXF9XKB48Y/0.jpg)](http://www.youtube.com/watch?v=CQXF9XKB48Y)
+
+#### Prioritizing those Most "Valued by Society"
+[![The Valued](http://img.youtube.com/vi/QA3Vo5ROBeA/0.jpg)](http://www.youtube.com/watch?v=QA3Vo5ROBeA)
+
+#### Prioritizing the Passengers
+[![The Passengers](http://img.youtube.com/vi/swseHALyzmE/0.jpg)](http://www.youtube.com/watch?v=swseHALyzmE)
