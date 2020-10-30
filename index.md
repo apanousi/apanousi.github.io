@@ -40,3 +40,9 @@ Watch this video to gain a deeper understanding of the major arguments from thos
 [![The Passengers](http://img.youtube.com/vi/swseHALyzmE/0.jpg)](http://www.youtube.com/watch?v=swseHALyzmE)
 
 Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the passengers of the self-driving vehicle when programming the vehicle's decisions.
+
+### Quiz: Which Ethical Framework are You?
+
+### Summary of Arguments
+
+### Quiz on What You've Learned
