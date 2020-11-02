@@ -43,7 +43,7 @@ Watch this video to gain a deeper understanding of the major arguments from thos
 
 ### Quiz: Which Ethical Framework are You?
 Now that you have seen which ethical frameworks support the scenarios above, take this quiz to determine which ethical framework you are:
-https://www.buzzfeed.com/ethicsproj2020/ethical-frameworks-assigner-b48tbran8g?utm_source=dynamic&utm_campaign=bfsharecopy
+(https://www.buzzfeed.com/ethicsproj2020/ethical-frameworks-assigner-b48tbran8g?utm_source=dynamic&utm_campaign=bfsharecopy)
 
 ### Summary of Arguments
 There are two options you could choose: saving the young people, or saving the old people. In this scenario, the utilitarian framework would consider prioritizing saving the young. The utilitarian framework focuses on maximizing the overall good and making decisions based on what might provide the most good for all people in the present and the future. In this situation, older people would provide less good in the future overall since they most likely will not be living as long as the younger people. 
@@ -60,7 +60,7 @@ In the scenario where the passengers are prioritized above all else, one might b
 
 ### Quiz on What You've Learned
 Take this quiz to see what you learned:
-https://docs.google.com/forms/d/e/1FAIpQLSfowCHuYe3p2copZzcbhfFXH370HWl2O8br_RxLpSPsLVC75w/viewform?usp=sf_link
+(https://docs.google.com/forms/d/e/1FAIpQLSfowCHuYe3p2copZzcbhfFXH370HWl2O8br_RxLpSPsLVC75w/viewform?usp=sf_link)
 
 Click "View Score" to see how you did. Didn't get 100%? Don't worry! You can retry the quiz as many times as you want!
 
