@@ -60,7 +60,7 @@ In the scenario where the passengers are prioritized above all else, one might b
 
 ### Quiz on What You've Learned
 Take this quiz to see what you learned:
-[What did you learn?](https://docs.google.com/forms/d/e/1FAIpQLSfowCHuYe3p2copZzcbhfFXH370HWl2O8br_RxLpSPsLVC75w/viewform?usp=sf_link)
+[](https://docs.google.com/forms/d/e/1FAIpQLSfowCHuYe3p2copZzcbhfFXH370HWl2O8br_RxLpSPsLVC75w/viewform?usp=sf_link)
 
 Click "View Score" to see how you did. Didn't get 100%? Don't worry! You can retry the quiz as many times as you want!
 
