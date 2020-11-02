@@ -12,7 +12,7 @@ After discovering what ethical framework you are, read our summary of the perspe
 
 ### Self Driving Car Priorities
 #### Prioritizing the Young
-[![The Young](http://img.youtube.com/vi/M0XAHpvV3bA/0.jpg)](http://www.youtube.com/watch?v=M0XAHpvV3bA)
+http://img.youtube.com/vi/M0XAHpvV3bA/0.jpg)](http://www.youtube.com/watch?v=M0XAHpvV3bA
 
 Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the young when programming self-driving cars' decisions.
 
@@ -58,7 +58,7 @@ In the scenario where those most valued by society are prioritized, one might be
 In the scenario where the passengers are prioritized above all else, one might be considering how the vehicle market operates. Vehicles are sold based on advertisements and the opinions of consumers. Prioritizing a vehicle’s buyer will lead to higher sales because consumers, at large, are more willing to buy things that will protect them and their family. So, the companies from a market perspective should meet these demands. Someone who prioritizes the passengers may be acting with the Feminist, Egoist, or Corporate Egosit framework in mind. Feminist ethics emphasizes that dependent relationships exists, particularly between a child and their caregiver. The caregiver is ethically obligated to protect the person dependent on them. With this in mind, the feminist ethicist might view the passengers as dependant on the safety of the vehicle; therefore, they might prioritize passengers. Someone thinking with an egoist perspective may also prioritize the passengers because the egoist believes there is no obligation to sacrifice themself for the sake of others. Finally, someone acting with a corporate egoist perspective might also prioritize passengers because they want the vehicle market to generate profit. By keeping passengers safe, the vehicle’s reputation is upheld.
 
 ### Quiz on What You've Learned
-[![What did you learn?](https://docs.google.com/forms/d/e/1FAIpQLSfowCHuYe3p2copZzcbhfFXH370HWl2O8br_RxLpSPsLVC75w/viewform?usp=sf_link)
+https://docs.google.com/forms/d/e/1FAIpQLSfowCHuYe3p2copZzcbhfFXH370HWl2O8br_RxLpSPsLVC75w/viewform?usp=sf_link
 
 
 
