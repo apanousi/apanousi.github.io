@@ -12,7 +12,7 @@ After discovering what ethical framework you are, read our summary of the perspe
 
 ### Self Driving Car Priorities
 #### Prioritizing the Young
-http://img.youtube.com/vi/M0XAHpvV3bA/0.jpg)](http://www.youtube.com/watch?v=M0XAHpvV3bA
+[![The Young] http://img.youtube.com/vi/M0XAHpvV3bA/0.jpg)](http://www.youtube.com/watch?v=M0XAHpvV3bA
 
 Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the young when programming self-driving cars' decisions.
 
@@ -42,7 +42,7 @@ Watch this video to gain a deeper understanding of the major arguments from thos
 Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the passengers of the self-driving vehicle when programming the vehicle's decisions.
 
 ### Quiz: Which Ethical Framework are You?
-[![Your Framework] (https://www.buzzfeed.com/ethicsproj2020/ethical-frameworks-assigner-b48tbran8g?utm_source=dynamic&utm_campaign=bfsharecopy)
+(https://www.buzzfeed.com/ethicsproj2020/ethical-frameworks-assigner-b48tbran8g?utm_source=dynamic&utm_campaign=bfsharecopy)
 
 ### Summary of Arguments
 There are two options you could choose: saving the young people, or saving the old people. In this scenario, the utilitarian framework would consider prioritizing saving the young. The utilitarian framework focuses on maximizing the overall good and making decisions based on what might provide the most good for all people in the present and the future. In this situation, older people would provide less good in the future overall since they most likely will not be living as long as the younger people. 
