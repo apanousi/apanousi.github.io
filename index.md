@@ -42,6 +42,7 @@ Watch this video to gain a deeper understanding of the major arguments from thos
 Watch this video to gain a deeper understanding of the major arguments from those who support prioritizing the passengers of the self-driving vehicle when programming the vehicle's decisions.
 
 ### Quiz: Which Ethical Framework are You?
+[![Your Framework] (https://www.buzzfeed.com/ethicsproj2020/ethical-frameworks-assigner-b48tbran8g?utm_source=dynamic&utm_campaign=bfsharecopy)
 
 ### Summary of Arguments
 There are two options you could choose: saving the young people, or saving the old people. In this scenario, the utilitarian framework would consider prioritizing saving the young. The utilitarian framework focuses on maximizing the overall good and making decisions based on what might provide the most good for all people in the present and the future. In this situation, older people would provide less good in the future overall since they most likely will not be living as long as the younger people. 
@@ -57,3 +58,7 @@ In the scenario where those most valued by society are prioritized, one might be
 In the scenario where the passengers are prioritized above all else, one might be considering how the vehicle market operates. Vehicles are sold based on advertisements and the opinions of consumers. Prioritizing a vehicle’s buyer will lead to higher sales because consumers, at large, are more willing to buy things that will protect them and their family. So, the companies from a market perspective should meet these demands. Someone who prioritizes the passengers may be acting with the Feminist, Egoist, or Corporate Egosit framework in mind. Feminist ethics emphasizes that dependent relationships exists, particularly between a child and their caregiver. The caregiver is ethically obligated to protect the person dependent on them. With this in mind, the feminist ethicist might view the passengers as dependant on the safety of the vehicle; therefore, they might prioritize passengers. Someone thinking with an egoist perspective may also prioritize the passengers because the egoist believes there is no obligation to sacrifice themself for the sake of others. Finally, someone acting with a corporate egoist perspective might also prioritize passengers because they want the vehicle market to generate profit. By keeping passengers safe, the vehicle’s reputation is upheld.
 
 ### Quiz on What You've Learned
+[![What did you learn?](https://docs.google.com/forms/d/e/1FAIpQLSfowCHuYe3p2copZzcbhfFXH370HWl2O8br_RxLpSPsLVC75w/viewform?usp=sf_link)
+
+
+
