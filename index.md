@@ -2,6 +2,7 @@
 layout: default
 ---
 # Ethics Final Project!
+## Group Members: Bailey Klaus, Dain Kim, Sam Manfreda, Ashley Panousis, and Zoe Surma
 
 ### Introduction
 This website aims to inform its users of different ethical frameworks and how someone might act when faced with different situations. In the videos below, we tackle the topic of a self-driving car’s decisions in various circumstances and decide whom or what is prioritized in each situation. More specifically, we examine six situations: prioritizing the young, the disadvantaged, the rules, the amount of lives saved, the passengers, and who is valued by society. With each scenario, we give an example of a circumstance these priorities would become relevant and explain what ethical frameworks would support the situation.
